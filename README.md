@@ -16,7 +16,7 @@ Client → API Gateway → Lambda (Python) → DynamoDB
 
 ## Authentication
 All endpoints require an API key passed in the request header:
-x-api-key: YOUR_API_KEY
+x-api-key: epQZCTp0Ex9ZqsNAdxcyl7dnUAyyNkAOa098Jsro
 
 ## Features
 - Full CRUD operations
